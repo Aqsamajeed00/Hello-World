@@ -1,2 +1,2 @@
 # project02
-In This Repository We Are Creating A Typescript File Of Hello World
+In this repository i am creating a typescript file of hello world
